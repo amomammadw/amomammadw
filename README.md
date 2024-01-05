@@ -72,9 +72,9 @@ If you have any questions, suggestions, or just want to connect with me, you can
 
 <!-- add icons for links -->
 
--   Email: [amomammadw@gmail.com](mailto:parsajiravand@gmail.com) :email:
+-   Email: [amomammadw@gmail.com](mailto:amomammadw@gmail.com) :email:
 -   Website: [Mohammad Ranjbar](https://mohammad-ranjbar.vercel.app) :globe_with_meridians:
--   LinkedIn: [Parsa Jiravand](https://www.linkedin.com/in/mohammad-ranjbar-15408518b/) :briefcase:
+-   LinkedIn: [Mohammad Ranjbar](https://www.linkedin.com/in/mohammad-ranjbar-15408518b/) :briefcase:
 
 ## License :scroll:
 
