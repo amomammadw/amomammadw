@@ -6,19 +6,19 @@ Welcome to my Repo
 ## GitHub Statistics :chart_with_upwards_trend:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amomammadw82&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amomammadw&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=amomammadw82&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amomammadw&show_icons=true&count_private=true&include_all_commits=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amomammadw82&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amomammadw&theme=dark" alt="GitHub Streak" />
 </p>
 
 <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=amomammadw82&theme=darkhub&no-frame=true&margin-w=30&margin-h=30&column=7" alt="GitHub Profile Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amomammadw&theme=darkhub&no-frame=true&margin-w=30&margin-h=30&column=7" alt="GitHub Profile Trophy" />
 </p>
 
 ## Technologies :computer:
